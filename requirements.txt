@@ -8,6 +8,8 @@ scipy
 tqdm
 scikit-learn
 scikit-image
+torch
+torchvision
 seaborn
 h5py
 ipykernel
